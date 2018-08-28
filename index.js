@@ -3,5 +3,5 @@ function happyHolidays(){
 }
 function happyHolidaysTo(name){
   var name = "delmar";
-  return 'Happy holidays, $(name)!'
+  return 'Happy holidays,'+ $(name)
 }
